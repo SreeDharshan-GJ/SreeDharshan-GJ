@@ -26,8 +26,7 @@ Email Me 👉 ✉️ **sg6165@srmist.edu.in** For Collaboration/Project or Anyth
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dashin-hub&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 # 💻 Tech Stack:
