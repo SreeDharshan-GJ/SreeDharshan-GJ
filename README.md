@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/dharshansree36%40gmail.com-0A1628?style=flat-square&logo=gmail&logoColor=white)](mailto:dharshansree36@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=MjKRGI0AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dashiinsreee/?skipRedirect=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedharshangj/?skipRedirect=true)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sreedharshan-G-J)
 [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/RAEEUCCI67649.2026.11504821)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6347-7268)
